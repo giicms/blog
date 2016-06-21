@@ -24,7 +24,7 @@ to the require section of your application's `composer.json` file.
 ~~~php
 
  'modules' => [
-        'carousel' => [
+        'blog' => [
             'class' => 'giicms\blog\Module',
         ],
   ],
